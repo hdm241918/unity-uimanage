@@ -1,0 +1,18 @@
+{
+
+  "Infols": [
+    {
+      "panelTypeString": "mianmenuPanel",
+      "path": "Ui/mianmenuPanel"
+    },
+
+    {
+      "panelTypeString": "TESKPanel",
+      "path": "Ui/TESKPanel"
+    },
+    {
+      "panelTypeString": "knasackPanel",
+      "path": "Ui/knasackPanel"
+    }
+  ]
+}
